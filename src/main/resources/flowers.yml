@@ -1,0 +1,25 @@
+Chamomile:
+   price: 10
+   length: 15
+   daysOnSale: 4
+   numberOfFlowers: 7
+Lilac:
+   price: 15
+   length: 30
+   daysOnSale: 2
+   country: Japan
+Rose:
+   price: 30
+   length: 50
+   daysOnSale: 2
+   color: Red
+Tulip:
+   price: 15
+   length: 20
+   daysOnSale: 1
+   variety: Foster
+Violet:
+   price: 12
+   length: 25
+   daysOnSale: 3
+   country: Russia
